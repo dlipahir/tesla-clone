@@ -1,0 +1,52 @@
+@mixin rwd($screen) {
+    @media (max-width: $screen+'px') {
+        @content;
+    }
+ }
+
+.navbar{
+    position: fixed;
+    z-index: 1000000;
+    display: flex;
+    width: 100%;
+    align-items: baseline;
+    justify-content: space-between;
+    font-size: 15px;
+    letter-spacing: .5px;
+    color: #202329;
+    padding:20px 30px;
+}
+.close-sidebar{
+    width: 30px;
+     margin-left: 70%;
+}
+.sidebar{
+    position: absolute;
+    background-color: white;
+    width: 15vw;
+    padding: 30px 20px;
+    right: 0;
+    top: 0;
+    min-height: 100vw;
+    @include rwd(1200) {
+       width: 40vw;
+    }
+    @include rwd(600) {
+       width: 70vw;
+    }
+
+    .sidebar-link{
+        padding: 20px;
+    }
+}
+
+
+.right-nav ul,.middle-nav ul{
+    font-weight: 600;
+    list-style: none;
+    display: flex;
+// background-color: blue;
+}
+.right-nav ul li,.middle-nav ul li{
+    padding: 15px;
+}
