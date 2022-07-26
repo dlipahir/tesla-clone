@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/dlipahir/tesla-clone.git/static/css/main.262368a4.css",
-    "main.js": "/dlipahir/tesla-clone.git/static/js/main.e9b154a7.js",
-    "static/js/787.860837ff.chunk.js": "/dlipahir/tesla-clone.git/static/js/787.860837ff.chunk.js",
-    "static/media/solar-roof.jpg": "/dlipahir/tesla-clone.git/static/media/solar-roof.acfd904501bf0bea5f9c.jpg",
-    "static/media/solar-panels.jpg": "/dlipahir/tesla-clone.git/static/media/solar-panels.d7d441d74e34d37c2c00.jpg",
-    "static/media/model-x.jpg": "/dlipahir/tesla-clone.git/static/media/model-x.0140b250c2faf1a6f372.jpg",
-    "static/media/model-y.jpg": "/dlipahir/tesla-clone.git/static/media/model-y.30acb76aab6f760a753a.jpg",
-    "static/media/model-3.jpg": "/dlipahir/tesla-clone.git/static/media/model-3.30651f796c26e128fa1b.jpg",
-    "static/media/model-s.jpg": "/dlipahir/tesla-clone.git/static/media/model-s.b9fa056d728e17007fcf.jpg",
-    "static/media/accessories.jpg": "/dlipahir/tesla-clone.git/static/media/accessories.027ada94d343f5d81f6d.jpg",
-    "static/media/logo.svg": "/dlipahir/tesla-clone.git/static/media/logo.a7b59bc6aae7059ffd7b4a18a105eb72.svg",
-    "index.html": "/dlipahir/tesla-clone.git/index.html",
-    "static/media/close.svg": "/dlipahir/tesla-clone.git/static/media/close.4de410c157b527f8f09c5bf40ba726cd.svg",
-    "main.262368a4.css.map": "/dlipahir/tesla-clone.git/static/css/main.262368a4.css.map",
-    "main.e9b154a7.js.map": "/dlipahir/tesla-clone.git/static/js/main.e9b154a7.js.map",
-    "787.860837ff.chunk.js.map": "/dlipahir/tesla-clone.git/static/js/787.860837ff.chunk.js.map"
+    "main.css": "/tesla-clone/static/css/main.262368a4.css",
+    "main.js": "/tesla-clone/static/js/main.10c6c417.js",
+    "static/js/787.860837ff.chunk.js": "/tesla-clone/static/js/787.860837ff.chunk.js",
+    "static/media/solar-roof.jpg": "/tesla-clone/static/media/solar-roof.acfd904501bf0bea5f9c.jpg",
+    "static/media/solar-panels.jpg": "/tesla-clone/static/media/solar-panels.d7d441d74e34d37c2c00.jpg",
+    "static/media/model-x.jpg": "/tesla-clone/static/media/model-x.0140b250c2faf1a6f372.jpg",
+    "static/media/model-y.jpg": "/tesla-clone/static/media/model-y.30acb76aab6f760a753a.jpg",
+    "static/media/model-3.jpg": "/tesla-clone/static/media/model-3.30651f796c26e128fa1b.jpg",
+    "static/media/model-s.jpg": "/tesla-clone/static/media/model-s.b9fa056d728e17007fcf.jpg",
+    "static/media/accessories.jpg": "/tesla-clone/static/media/accessories.027ada94d343f5d81f6d.jpg",
+    "static/media/logo.svg": "/tesla-clone/static/media/logo.a7b59bc6aae7059ffd7b4a18a105eb72.svg",
+    "index.html": "/tesla-clone/index.html",
+    "static/media/close.svg": "/tesla-clone/static/media/close.4de410c157b527f8f09c5bf40ba726cd.svg",
+    "main.262368a4.css.map": "/tesla-clone/static/css/main.262368a4.css.map",
+    "main.10c6c417.js.map": "/tesla-clone/static/js/main.10c6c417.js.map",
+    "787.860837ff.chunk.js.map": "/tesla-clone/static/js/787.860837ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.262368a4.css",
-    "static/js/main.e9b154a7.js"
+    "static/js/main.10c6c417.js"
   ]
 }
